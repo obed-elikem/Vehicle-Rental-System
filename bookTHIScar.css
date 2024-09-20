@@ -1,0 +1,53 @@
+.heading {
+    display: flex;
+    flex: 1;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.arrengement {
+    flex: 0.5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    font-size: 22px;
+    margin-left: 650px;
+}
+
+.logins {
+    margin-left: 7%;
+    border: 1px solid;
+    width: 100%;
+    padding: 20px;
+}
+
+.best {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: right;
+    margin-left: 5%;
+    height: 500px;
+    border: 2px solid;
+    margin-right: 350px;
+}
+
+.MasterDiv {
+    border-width: 2px 2px 2px 2px;
+    border-radius: 3px;
+    padding: 20px;
+    width: fit-content;
+    height: 250px;
+}
+
+.firstDiv {
+    display: flex;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.break {
+    display: flex;
+    flex: 1;
+    background-color: blanchedalmond;
+}

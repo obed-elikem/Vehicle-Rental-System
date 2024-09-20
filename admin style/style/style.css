@@ -1,0 +1,57 @@
+body {
+    margin-top: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 0.15fr 0.6fr 1fr;
+    height: 700px;
+}
+
+.box2 {
+    margin-left: 80px;
+    width: 350px;
+}
+
+.pic {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.name {
+    margin-left: 20px;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+.status {
+    display: inline-block;
+    margin-left: 80px;
+    color: orange;
+    background-color: rgb(233, 229, 223);
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    margin-top: -10px;
+    padding-top: 10px;
+}
+
+.detail {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.updates{
+    
+}
+.updates li a{
+    text-decoration: none;
+    color: red;
+}
+.down{
+    margin-top: 150px; padding-left: 20px;
+}
+.down a{
+    text-decoration: none;
+}

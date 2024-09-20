@@ -1,0 +1,28 @@
+.best {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: right;
+    margin-left: 32%;
+    height: 500px;
+    border: 2px solid yellow;
+    margin-right: 350px;
+}
+
+.MasterDiv {
+    border-width: 2px 2px 2px 2px;
+    border-radius: 2.5px;
+    padding: 20px;
+    width: fit-content;
+    height: 250px;
+    color: yellow;
+}
+
+.firstDiv {
+    display: flex;
+    margin-bottom: 20px;
+    color: yellow;
+}
+
+body {
+    background-color: black;
+}
